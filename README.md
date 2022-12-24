@@ -1,6 +1,6 @@
 # Next.🆔 Hackathon -> 12 Days of Hacxmas 🎄
 
-🟢 Available here: https://essays.hlabz.cc/
+- 🟢 Available here: https://essays.hlabz.cc/
 
 <img width="1255" alt="Essays" src="https://user-images.githubusercontent.com/113842155/209415534-4d9880c3-0d24-4126-93b7-193c2c378caf.png">
 
